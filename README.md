@@ -1,1 +1,1 @@
-# primeiro-reposit-rio-git
+# primeiro-repositório-git
